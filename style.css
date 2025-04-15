@@ -21,3 +21,16 @@ select:focus {
   border-color: #007bff;
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
+button {
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
+button:hover {
+    background-color: #3498db;
+}
+p {
+    position: absolute;
+    left: 20%;
+    top: 35%;
+}
